@@ -1,0 +1,4 @@
+se debe realizar un GIT INIT para crear un repositorio local
+este archivo se abre con editor de texto en mi caso con VS CODE 
+el cual se utiliza para realizar las insercion de comando y asi saber como 
+realiza los comando y funciones entres otras.
